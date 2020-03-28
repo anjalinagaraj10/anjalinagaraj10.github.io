@@ -130,7 +130,7 @@ function navbar_font() {
 
 function aboutme() {
   $('#name-row').removeClass('name-row-scroll');
-  document.getElementById('name-row').innerHTML = "<div class='col'></div><div class='col-10 col-md-10 col-sm-8 col-lg-4' id='about-sum'> <p> <h2 id='about-title-h2'>Hi, I'm Sampriti </h2> </p><p> <img src='https://sampritisivarajan.com/public/img/2.jpeg' height=300 width=300> <img src='https://sampritisivarajan.com/public/img/3.jpeg' height=300 width=300> <img src='https://sampritisivarajan.com/public/img/4.jpeg' height=300 width=300> </p></div><div class='col'></div>"
+  document.getElementById('name-row').innerHTML = "<div class='col'></div><div class='col-10 col-md-10 col-sm-8 col-lg-4' id='about-sum'> <p> <h2 id='about-title-h2'>Hi, I'm Sampriti </h2> </p><p> <img src='https://sampritisivarajan.com/public/img/2.jpeg' height=300 width=300> <br> <img src='https://sampritisivarajan.com/public/img/3.jpeg' height=300 width=300> <br> <img src='https://sampritisivarajan.com/public/img/4.jpeg' height=300 width=300> </p></div><div class='col'></div>"
 }
 
 function profile() {

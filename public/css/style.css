@@ -110,8 +110,9 @@ html, body {
   font-family: 'Literata', serif;
   font-size: 2vh!important;
   color: #eceff1;
-  /*overflow-y: scroll;*/
+  overflow-y: scroll;
   overflow: auto;
+  height: 120%;
 }
 
 p {
